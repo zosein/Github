@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1aNSxMgkrt+6y9x9RWUkWUpoTd8XUpHERyYvFzxvarjP1hwP4kA1neO186qAySbaAAhYJ46QDnAd6b2PhVhb1g==",
+  "dgSpecHash": "dJDfZEQZE67+WxcFnUsu6eLH6XBG1MizDbAIaPRtQtpQKRbMu1VSrWjb/INcv8STfVRJ42KCVPSeL1sLqA/Hyg==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\Projetos\\cadastro-livro-aspnet\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj",
+  "projectFilePath": "C:\\workspace\\Projetos-dotnet\\cadastro-livro-aspnet\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olati\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\olati\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
