@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-AspNetCore_EFCore_CodeFirst",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-AspNetCore_EFCore_CodeFirst",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

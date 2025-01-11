@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|c:\\workspace\\projetos\\github\\src\\aspnetcore_efcore_codefirst\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|c:\\workspace\\projetos\\github\\src\\aspnetcore_efcore_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|c:\\workspace\\projetos\\github\\src\\aspnetcore_efcore_codefirst\\mapping\\livromap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|solutionrelative:mapping\\livromap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|c:\\workspace\\projetos\\github\\src\\aspnetcore_efcore_codefirst\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{125FE08B-3B0F-4E86-89BB-F37B250F7316}|AspNetCore_EFCore_CodeFirst.csproj|solutionrelative:models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T05:49:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:03:43.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "Models\\Livro.cs",
+              "ToolTip": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\Models\\Livro.cs",
+              "RelativeToolTip": "Models\\Livro.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T05:03:19.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroMap.cs",
+              "DocumentMoniker": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\Mapping\\LivroMap.cs",
+              "RelativeDocumentMoniker": "Mapping\\LivroMap.cs",
+              "ToolTip": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\Mapping\\LivroMap.cs",
+              "RelativeToolTip": "Mapping\\LivroMap.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:35:18.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
