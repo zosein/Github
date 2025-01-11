@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj": {}
+    "C:\\workspace\\Projetos\\cadastro-livro-aspnet\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj": {
+    "C:\\workspace\\Projetos\\cadastro-livro-aspnet\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj",
+        "projectUniqueName": "C:\\workspace\\Projetos\\cadastro-livro-aspnet\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj",
         "projectName": "AspNetCore_EFCore_CodeFirst",
-        "projectPath": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj",
+        "projectPath": "C:\\workspace\\Projetos\\cadastro-livro-aspnet\\src\\AspNetCore_EFCore_CodeFirst\\AspNetCore_EFCore_CodeFirst.csproj",
         "packagesPath": "C:\\Users\\olati\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\Projetos\\Github\\src\\AspNetCore_EFCore_CodeFirst\\obj\\",
+        "outputPath": "C:\\workspace\\Projetos\\cadastro-livro-aspnet\\src\\AspNetCore_EFCore_CodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
